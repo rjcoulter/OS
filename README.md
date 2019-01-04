@@ -1,6 +1,6 @@
-# Project Title
+# Simple OS
 
-One Paragraph of project description goes here
+Making a simple OS from scratch
 
 ## Getting Started
 
