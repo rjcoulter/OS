@@ -1,5 +1,4 @@
-void dummy_test_entrypoint() {
-}
+#include "../drivers/ports.h" 
 
 void main() {
     char* video_memory = (char*) 0xb8000;
